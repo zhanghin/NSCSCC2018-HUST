@@ -8,6 +8,6 @@ FirstRound：初赛的文档
 
 参赛总结：队员的总结文档，还有北京理工大学的总结文档，可以了解一下别人的做法，虽然北理做得也不是特别好
 
-nscscc2018_release_v0.04.zip：龙芯发布的压缩包，有测试框架，由于太大了所以删掉了，可以到http://www.nscscc.org/下载，解压密码nscscc2018
+nscscc2018_release_v0.04.zip：龙芯发布的压缩包，有测试框架，由于太大了所以删掉了，可以到http://www.nscscc.org 下载，解压密码nscscc2018
 
 答辩：答辩ppt
